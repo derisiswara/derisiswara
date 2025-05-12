@@ -4,7 +4,7 @@
 
 I am currently an Adjunct Lecturer in the Department of Data Science at the Perbanas Institute. I graduated from IPB University in 2020 with a B.Ec. in Islamic Economics and in 2024 with an M.Sc. in Statistics and Data Science. I enjoy working with data using R and Python. I’m also proficient in various software tools for data analysis. I’m open to collaborations, projects, or new opportunities. 
   
-[![derisiswara.org](https://img.shields.io/badge/derisiswara.org-%230b7366.svg?style=for-the-badge&logoColor=white)](https://derisiswara.org) [![CV](https://img.shields.io/badge/CV-%236a2d0a.svg?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1oSj4pgafiRg3WiXlBGMpb4vl8S7fxVeQ/view) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derisiswara/)
+[![derisiswara.org](https://img.shields.io/badge/derisiswara.org-%230b7366.svg?style=for-the-badge&logoColor=white)](https://derisiswara.org) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derisiswara/)
 
 ### GitHub Stats
   
