@@ -2,7 +2,7 @@
 
 ![Jadey's visitor count badge](https://visitor-badge.laobi.icu/badge?page_id=derisiswara.visitor-badge)
 
-I am currently an Adjunct Lecturer in the Department of Data Science at the Perbanas Institute. I graduated from IPB University in 2020 with a B.Ec. in Islamic Economics and in 2024 with an M.Sc. in Statistics and Data Science. I enjoy working with data using R and Python. I’m also proficient in various software tools for data analysis. I’m open to collaborations, projects, or new opportunities. 
+Research/Data Analyst with a background in Statistics and Economics. Experienced in survey design, creating dashboards, impact assessment, econometric modeling, and teaching. Worked on various projects across multiple sectors, bringing unique and diverse perspectives to problem-solving. I’m open to collaborations, projects, or new opportunities.  
   
 [![derisiswara.org](https://img.shields.io/badge/derisiswara.org-%230b7366.svg?style=for-the-badge&logoColor=white)](https://derisiswara.org) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derisiswara/)
 
