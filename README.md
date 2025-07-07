@@ -1,4 +1,4 @@
-### Hi there! <img src="https://github.com/derisiswara/derisiswara/blob/main/logods2.webp" height="85" alt="Logo for Deri Siswara's personal website"> 
+### Hi there!
 
 ![Jadey's visitor count badge](https://visitor-badge.laobi.icu/badge?page_id=derisiswara.visitor-badge)
 
