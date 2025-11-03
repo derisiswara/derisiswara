@@ -8,6 +8,6 @@ im an economist who codes.
 
 ### GitHub Stats
   
-![Deri's GitHub stats](https://github-readme-stats.vercel.app/api?username=derisiswara&theme=vue-dark&show_icons=true) 
+![Deri's GitHub stats](https://github-readme-stats.vercel.app/api?username=derikayz&show_icons=true&theme=github_dark)
 
 ![Deri's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derisiswara&layout=compact&theme=vue-dark&hide=javascript,html,typescript)
